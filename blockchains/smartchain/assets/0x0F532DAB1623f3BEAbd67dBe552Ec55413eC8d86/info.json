@@ -1,0 +1,11 @@
+{
+    "name": "Kelp Network",
+    "type": "BEP20",
+    "symbol": "KELP",
+    "decimals": 18,
+    "website": "https://kelpnetwork.com",
+    "description": "The protocol aims to provide an attractive APY while creating scarcity through buybacks and burns.",
+    "explorer": "https://bscscan.com/address/0x0F532DAB1623f3BEAbd67dBe552Ec55413eC8d86",
+    "status": "active",
+    "id": "0x0F532DAB1623f3BEAbd67dBe552Ec55413eC8d86"
+}
